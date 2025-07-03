@@ -1,0 +1,31 @@
+flowchart-diagram
+
+title Voltic Inc. Teams and Projects Flow Chart
+direction right
+
+// Teams as main groups
+Danish Team [icon: users, color: lightblue] {
+  "Purify-x" [icon: file-text, color: yellow]
+  Inbox Automation [icon: mail, color: yellow]
+  Valid Leads [icon: check-square, color: yellow]
+  Codeium [icon: code, color: yellow]
+}
+
+DevOps Team [icon: server, color: lightblue] {
+  Temp Mail [icon: mail, color: green]
+  PDF to DWG [icon: file, color: green]
+  Poster Mail [icon: send, color: green]
+  Nebuela Marketing [icon: globe, color: green]
+  Phylax Guard [icon: shield, color: yellow]
+  DevOps Support [icon: settings, color: green]
+}
+
+Umair Team [icon: user, color: lightblue] {
+    Design Tingle [icon: layout, color: green]
+  Primary Inbox [icon: inbox, color: green]
+    Tool Nest [icon: package, color: yellow]
+  Warmio [icon: thermometer, color: yellow]
+  Avenzia [icon: layers, color: yellow]
+}
+// Relationships
+
